@@ -1,0 +1,12 @@
+node_modules
+.output
+.nitro
+.vite
+dist
+.git
+.github
+*.log
+.env
+.env.*
+.DS_Store
+tsconfig.tsbuildinfo
